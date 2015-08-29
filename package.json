@@ -5,6 +5,7 @@
     "private": true,
     "dependencies": {
         "express": "4.x",
+        "mongoose": "4.x",
         "cookie-parser": "~1.0.1",
 		"body-parser": "~1.0.0"
     }
